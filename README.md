@@ -1,1 +1,1 @@
-# PRODIGY_SD_05
+Web scrapping of flipkart data using request and BeautifulSoul module.
